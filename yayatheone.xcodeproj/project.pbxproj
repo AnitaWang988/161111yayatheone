@@ -12,6 +12,7 @@
 		041B6C2E1DD4BE4700A55EA5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 041B6C2C1DD4BE4700A55EA5 /* Main.storyboard */; };
 		041B6C301DD4BE4700A55EA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 041B6C2F1DD4BE4700A55EA5 /* Assets.xcassets */; };
 		041B6C331DD4BE4700A55EA5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 041B6C311DD4BE4700A55EA5 /* LaunchScreen.storyboard */; };
+		041B6C3B1DD4C03800A55EA5 /* yayatrueLoveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041B6C3A1DD4C03800A55EA5 /* yayatrueLoveViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		041B6C2F1DD4BE4700A55EA5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		041B6C321DD4BE4700A55EA5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		041B6C341DD4BE4700A55EA5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		041B6C3A1DD4C03800A55EA5 /* yayatrueLoveViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = yayatrueLoveViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				041B6C281DD4BE4700A55EA5 /* AppDelegate.swift */,
 				041B6C2A1DD4BE4700A55EA5 /* ViewController.swift */,
 				041B6C2C1DD4BE4700A55EA5 /* Main.storyboard */,
+				041B6C3A1DD4C03800A55EA5 /* yayatrueLoveViewController.swift */,
 				041B6C2F1DD4BE4700A55EA5 /* Assets.xcassets */,
 				041B6C311DD4BE4700A55EA5 /* LaunchScreen.storyboard */,
 				041B6C341DD4BE4700A55EA5 /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				041B6C2B1DD4BE4700A55EA5 /* ViewController.swift in Sources */,
 				041B6C291DD4BE4700A55EA5 /* AppDelegate.swift in Sources */,
+				041B6C3B1DD4C03800A55EA5 /* yayatrueLoveViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
